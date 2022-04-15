@@ -64,7 +64,7 @@ section{
 }
 .container1{
   flex: 1;
-  height: 88vh;
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -76,9 +76,10 @@ section{
 .container2{
 
   
-  flex: 1.1;
-  height: 88vh;
   background: url('./Assets/hero-Illustration.png' )no-repeat center center/cover;
+  height: 600px;
+  width: 600px;
+  background-size: 600px;
 }
 
 .checkbox{
